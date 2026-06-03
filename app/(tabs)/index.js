@@ -71,7 +71,7 @@ export default function Index() {
     <ScrollView style={estilos.telaPrincipal} contentContainerStyle={estilos.conteudo}>
       <View style={estilos.secaoCabecalho}>
         <Text style={estilos.titulo}>Painel de Controle</Text>
-        <Text style={estilos.subtitulo}>Missão Artemis V - Status Global</Text>
+        <Text style={estilos.subtitulo}>Missão FIAP V - Status Global</Text>
 
         <View>
           <Text style={[
