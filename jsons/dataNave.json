@@ -1,0 +1,182 @@
+[
+    {
+        "energia": 70,
+        "sinal": 120,
+        "o2": 18,
+        "estrutura": 90
+    },
+    {
+        "energia": 85,
+        "sinal": 110,
+        "o2": 21,
+        "estrutura": 95
+    },
+    {
+        "energia": 48,
+        "sinal": 180,
+        "o2": 14,
+        "estrutura": 83
+    },
+    {
+        "energia": 34,
+        "sinal": 210,
+        "o2": 19,
+        "estrutura": 100
+    },
+    {
+        "energia": 40,
+        "sinal": 90,
+        "o2": 20,
+        "estrutura": 87
+    },
+    {
+        "energia": 15,
+        "sinal": 140,
+        "o2": 18,
+        "estrutura": 92
+    },
+    {
+        "energia": 99,
+        "sinal": 140,
+        "o2": 21,
+        "estrutura": 98
+    },
+    {
+        "energia": 65,
+        "sinal": 85,
+        "o2": 16,
+        "estrutura": 89
+    },
+    {
+        "energia": 88,
+        "sinal": 125,
+        "o2": 20,
+        "estrutura": 90
+    },
+    {
+        "energia": 30,
+        "sinal": 210,
+        "o2": 19,
+        "estrutura": 91
+    },
+    {
+        "energia": 78,
+        "sinal": 118,
+        "o2": 19,
+        "estrutura": 85
+    },
+    {
+        "energia": 42,
+        "sinal": 75,
+        "o2": 17,
+        "estrutura": 86
+    },
+    {
+        "energia": 95,
+        "sinal": 135,
+        "o2": 21,
+        "estrutura": 92
+    },
+    {
+        "energia": 50,
+        "sinal": 100,
+        "o2": 14,
+        "estrutura": 88
+    },
+    {
+        "energia": 68,
+        "sinal": 100,
+        "o2": 18,
+        "estrutura": 87
+    },
+    {
+        "energia": 82,
+        "sinal": 122,
+        "o2": 20,
+        "estrutura": 88
+    },
+    {
+        "energia": 55,
+        "sinal": 88,
+        "o2": 17,
+        "estrutura": 94
+    },
+    {
+        "energia": 80,
+        "sinal": 150,
+        "o2": 20,
+        "estrutura": 80
+    },
+    {
+        "energia": 22,
+        "sinal": 190,
+        "o2": 15,
+        "estrutura": 85
+    },
+    {
+        "energia": 75,
+        "sinal": 95,
+        "o2": 17,
+        "estrutura": 96
+    },
+    {
+        "energia": 90,
+        "sinal": 128,
+        "o2": 20,
+        "estrutura": 94
+    },
+    {
+        "energia": 35,
+        "sinal": 155,
+        "o2": 16,
+        "estrutura": 89
+    },
+    {
+        "energia": 10,
+        "sinal": 250,
+        "o2": 10,
+        "estrutura": 50
+    },
+    {
+        "energia": 48,
+        "sinal": 82,
+        "o2": 16,
+        "estrutura": 92
+    },
+    {
+        "energia": 86,
+        "sinal": 112,
+        "o2": 19,
+        "estrutura": 89
+    },
+    {
+        "energia": 21,
+        "sinal": 199,
+        "o2": 15,
+        "estrutura": 86
+    },
+    {
+        "energia": 62,
+        "sinal": 92,
+        "o2": 17,
+        "estrutura": 93
+    },
+    {
+        "energia": 96,
+        "sinal": 138,
+        "o2": 21,
+        "estrutura": 97
+    },
+    {
+        "energia": 58,
+        "sinal": 89,
+        "o2": 18,
+        "estrutura": 91
+    },
+    {
+        "energia": 72,
+        "sinal": 105,
+        "o2": 18,
+        "estrutura": 95
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ksc",
+    "nome": "Kennedy Space Center",
+    "pais": "EUA",
+    "lat": 28.5728,
+    "lon": -80.6489
+  },
+  {
+    "id": "alc",
+    "nome": "Base de Alcântara",
+    "pais": "Brasil",
+    "lat": -2.3730,
+    "lon": -44.3963
+  },
+  {
+    "id": "star",
+    "nome": "Starbase (SpaceX)",
+    "pais": "EUA",
+    "lat": 25.9972,
+    "lon": -97.1558
+  },
+  {
+    "id": "bai",
+    "nome": "Cosmódromo de Baikonur",
+    "pais": "Cazaquistão",
+    "lat": 45.9645,
+    "lon": 63.3052
+  }
+]
