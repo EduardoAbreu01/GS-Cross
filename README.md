@@ -1,7 +1,7 @@
 # Home do Projeto
 ### Global Solution 2026.1 - Space Predictive Analytics | FIAP
 
-![Banner do Projeto](https://via.placeholder.com/800x200?text=Space+Predictive+Analytics)
+![Banner do Projeto](.assets/screenshots/banner.png)<br>
 
 ## Descrição
 O **Space Predictive Analytics** é uma plataforma inteligente e responsiva desenvolvida para monitorar sistemas espaciais e operações orbitais simuladas. A solução coleta, processa e exibe dados críticos de sensores da nave, cobrindo painéis de energia, oxigênio, telemetria e integridade estrutural. O grande diferencial desta aplicação é a geração autônoma de alertas baseada em limiares configuráveis e um módulo de análise preditiva alimentado por IA Generativa para auxiliar a tomada de decisão em janelas de lançamento.
@@ -16,15 +16,15 @@ O **Space Predictive Analytics** é uma plataforma inteligente e responsiva dese
 ## Telas do Aplicativo
 
 ### Home (Dashboard Principal)
-![Home](./assets/screenshots/home.png)
+![Home](./assets/screenshots/home.png)<br>
 Visão geral da missão FIAP V com status global, resumo dos 4 sistemas vitais (Energia, Sinal, O², Estrutura) e alertas críticos em tempo real.
 
 ### Dashboard de Energia
-![Energia](./assets/screenshots/energia.png)
+![Energia](./assets/screenshots/energia.png)<br>
 Monitoramento detalhado da geração solar, autonomia estimada e consumo dos sistemas, alertando sobre a temperatura da bateria.
 
 ### Dashboard de Oxigênio (Suporte à Vida)
-![Oxigênio](./assets/screenshots/oxigenio.png)
+![Oxigênio](./assets/screenshots/oxigenio.png)<br>
 Indicadores de pressão interna da cabine, saturação de CO2, status dos filtros purificadores e reserva de emergência.
 
 ### Dashboard de Sinal (Comunicação)
@@ -32,15 +32,15 @@ Indicadores de pressão interna da cabine, saturação de CO2, status dos filtro
 Status da antena de alto ganho, latência de telemetria, perda de pacotes e qualidade do link.
 
 ### Dashboard de Integridade da Estrutura
-![Estrutura](./assets/screenshots/estrutura.png)
+![Estrutura](./assets/screenshots/estrutura.png)<br>
 Rastreio de micro-impactos no casco, exposição à radiação espacial e status de selagem das comportas e eclusas.
 
 ### Clima e Lançamentos (IA Preditiva)
-![Clima Bases](./assets/screenshots/clima_bases.png)
+![Clima Bases](./assets/screenshots/clima_bases.png)<br>
 Leitura climática em tempo real das bases de lançamento (via OpenWeather) combinada com um diagnóstico de risco automatizado por Inteligência Artificial (Gemini).
 
 ### Configurações de Alertas
-![Configurações](./assets/screenshots/configuracoes.png)
+![Configurações](./assets/screenshots/configuracoes.png)<br>
 Formulário com validação para calibração dos limiares de segurança da missão, com persistência local de dados.
 
 ## Funcionalidades
