@@ -1,7 +1,7 @@
 # Home do Projeto
 ### Global Solution 2026.1 - Space Predictive Analytics | FIAP
 
-![Banner do Projeto](.assets/screenshots/banner.png)<br>
+![Banner do Projeto](.assets/Banner.png)<br>
 
 ## Descrição
 O **Space Predictive Analytics** é uma plataforma inteligente e responsiva desenvolvida para monitorar sistemas espaciais e operações orbitais simuladas. A solução coleta, processa e exibe dados críticos de sensores da nave, cobrindo painéis de energia, oxigênio, telemetria e integridade estrutural. O grande diferencial desta aplicação é a geração autônoma de alertas baseada em limiares configuráveis e um módulo de análise preditiva alimentado por IA Generativa para auxiliar a tomada de decisão em janelas de lançamento.
@@ -73,22 +73,18 @@ Formulário com validação para calibração dos limiares de segurança da miss
 ```bash
 git clone https://github.com/EduardoAbreu01/gs-cross.git
 ```
-2. Acesse a pasta raiz do projeto:
+2. Instale as dependências necessárias:
 ```bash
-cd orbit-expo
+npm install --legacy-peer-deps
 ```
-3. Instale as dependências necessárias:
-```bash
-npm install
-```
-4. Crie um arquivo `.env` na raiz do projeto contendo as chaves de API necessárias:
+3. Crie um arquivo `.env` na raiz do projeto contendo as chaves de API necessárias:
 ```env
 EXPO_PUBLIC_OPENWEATHER_API_KEY=sua_chave_aqui
 EXPO_PUBLIC_GEMINI_API_KEY=sua_chave_aqui
 ```
-5. Inicie o servidor de desenvolvimento:
+4. Inicie o servidor de desenvolvimento:
 ```bash
-npx expo start
+npm run android
 ```
 6. Escaneie o QR Code gerado no terminal utilizando o aplicativo Expo Go no seu smartphone ou pressione `a` para abrir no emulador Android / `i` para abrir no emulador iOS.
 
