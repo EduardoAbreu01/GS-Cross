@@ -1,7 +1,7 @@
 # Home do Projeto
 ### Global Solution 2026.1 - Space Predictive Analytics | FIAP
 
-![Banner do Projeto](.assets/Banner.png)<br>
+![Banner](./assets/screenshots/banner.png)<br>
 
 ## Descrição
 O **Space Predictive Analytics** é uma plataforma inteligente e responsiva desenvolvida para monitorar sistemas espaciais e operações orbitais simuladas. A solução coleta, processa e exibe dados críticos de sensores da nave, cobrindo painéis de energia, oxigênio, telemetria e integridade estrutural. O grande diferencial desta aplicação é a geração autônoma de alertas baseada em limiares configuráveis e um módulo de análise preditiva alimentado por IA Generativa para auxiliar a tomada de decisão em janelas de lançamento.
