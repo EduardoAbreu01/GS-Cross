@@ -89,7 +89,7 @@ npm run android
 6. Escaneie o QR Code gerado no terminal utilizando o aplicativo Expo Go no seu smartphone ou pressione `a` para abrir no emulador Android / `i` para abrir no emulador iOS.
 
 ## Vídeo de Demonstração
-[Clique aqui para assistir à demonstração da aplicação (YouTube) ](https://youtube.com/...)
+[Clique aqui para assistir à demonstração da aplicação (YouTube) ](https://www.youtube.com/watch?v=Nxkx6TNkK0Y)
 
 ## Licença
 Este projeto foi desenvolvido para fins acadêmicos - FIAP 2026.
